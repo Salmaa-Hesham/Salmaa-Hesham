@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Salma 👋
 
-<!--
-**Salmaa-Hesham/Salmaa-Hesham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am aspiring to be DevOps Engineer but I currently work at Microsoft as Intune technical support, I am working on my self every day to improve my DevOps skills doing some projects and get familer with tools, you can check my Projects here what I have been working on
 
-Here are some ideas to get you started:
+## Currently learning
+- Docker
+- Kubernetes
+- Terraform
+- CI/CD
+- AWS
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goals
+Building hands-on DevOps projects and growing into a DevOps Engineer role.
+
+## Don't forget always Have Fun!
